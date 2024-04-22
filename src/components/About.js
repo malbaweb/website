@@ -4,10 +4,9 @@ import './About.css'; // Importar el archivo CSS para estilos
 function About() {
   return (
     <div id="about" className="about">
-      <h2>Te cuento de mí</h2>
+      <h2>Acerca de mi </h2>
       <p>
-        Hola, soy Manuel Alba alias el malba. Mi mundo es la tecnología y no hay nada que me apasione más que que resolver optimizar problemas. Me apasiona aprender, desarrallorar y implementar.
-        por lo que siempre estoy buscando nuevas oportunidades.
+        Hola y en esta oportunidad estamaremos viendo como hacer nuestro sitio con react + github actions + github pages.
       </p>
       <p>
         Soy Organizador de la comunidad de Elastic Search Chile y SysArmy Chile, donde me encargo de organizar eventos y charlas para la comunidad.

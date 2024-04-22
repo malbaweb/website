@@ -23,5 +23,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.TOKEN }}
-        cname: el.malba.cl
+        cname: opensource.malba.cl
         publish_dir: ./build
